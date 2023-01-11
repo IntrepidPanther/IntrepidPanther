@@ -15,7 +15,7 @@ I followed this up with a 2D lattice (the analysis was harder in the 2D case). S
 
 I enjoy trying to learn about things I don't know, and I find the best way to do this is to try to solve problems or answer question, others have not answered. 
 
-### Paramter Estimation via Machine Learning
+### Parameter Estimation via Machine Learning
 
 I recently (Fall 2022) took a very good class on machine learning because I wanted to potentially use tools from machine learning to estimate properties of lattices by observation of its dynamics. This is a rather large question, so worked on a fairly small example. A report of my work can be found in the folder titled "other endevours" in this repository. The course was taught by Drexel Professor, Gordon Richards. It is worth checking out the related github in case you are a student considering a similar class at another university. https://github.com/gtrichards/PHYS_440_540
 
