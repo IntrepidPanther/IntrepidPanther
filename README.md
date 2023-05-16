@@ -11,7 +11,7 @@ Here is link to a paper I wrote with my advisor, J. Douglas Write, I published p
 
 I followed this up with a 2D lattice (the analysis was harder in the 2D case). See this preprint: https://arxiv.org/abs/2211.15760
 
-## Other Endevours 
+## Other Endeavours 
 
 I enjoy trying to learn about things I don't know, and I find the best way to do this is to try to solve problems or answer question. 
 
