@@ -1,4 +1,4 @@
-### Welcome to my personal website! 
+### Welcome to my personal website! (Last Update: May 2022)
 
 Here is a bit about me. I am currently a Math PhD student at Drexel University in my final year. I love learning and problem solving, and I also enjoy collaborating as well as teaching the things I have learned. My current research involves proving things about waves travelling through lattices made of "random" material. If you want to know more about my research, please start with my research statement located in this repositrory, or for an even briefer account, see the following link: 
 
