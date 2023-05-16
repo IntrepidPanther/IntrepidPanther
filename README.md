@@ -9,7 +9,7 @@ I find the use of simulations especially helpful in learning, and I am hoping to
 
 Here is link to a paper I wrote with my advisor, J. Douglas Write, I published proving the existense of travelling waves in a 1D lattice with random material components: https://www.aimsciences.org/article/doi/10.3934/dcdss.2021100
 
-I followed this up with a 2D lattice (the analysis was harder in the 2D case). See this preprint: https://arxiv.org/abs/2211.15760
+I followed this up with a 2D lattice (the analysis was harder in the 2D case). The paper is currently under review. See this preprint: https://arxiv.org/abs/2211.15760
 
 ## Other Endeavours 
 
