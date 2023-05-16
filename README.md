@@ -3,7 +3,7 @@
 Here is a bit about me. I am currently a Math PhD student at Drexel University in my final year. I love learning and problem solving, and I also enjoy collaborating as well as teaching the things I have learned. My current research involves proving things about waves travelling through lattices made of "random" material. If you want to know more about my research, please start with my research statement located in this repositrory, or for an even briefer account, see the following link: 
 
 
-I find the use of simulations especially helpful in learning, and I am hoping to use this page in the future to upload any numerical work related to my research. I hoping to continue my a career in research after. 
+I find the use of simulations especially helpful in learning, and I am hoping to use this page in the future to upload any numerical work related to my research. I hoping to continue my a career in research once I finish my PhD. 
 
 ## Research regarding Waves in Lattices with Random Material Components 
 
@@ -17,7 +17,7 @@ I enjoy trying to learn about things I don't know, and I find the best way to do
 
 ### Parameter Estimation via Machine Learning
 
-I recently (Fall 2022) took a very good class on machine learning because I wanted to potentially use tools from machine learning to estimate properties of lattices by observation of its dynamics. This is a rather large question, so worked on a fairly small example. A report of my work can be found in the folder titled "other endeavours" in this repository. The course was taught by Drexel Professor, Gordon Richards. It is worth checking out the related github in case you are a student considering a similar class at another university. https://github.com/gtrichards/PHYS_440_540
+I recently (Fall 2022) took a very good class on machine learning because I wanted to potentially use tools from machine learning to estimate properties of lattices by observation of its dynamics. This is a rather large question, so I worked on a fairly small example. A report of my work can be found in the folder titled "other endeavours" in this repository. The course was taught by Drexel Professor, Gordon Richards. It is worth checking out the related github in case you are a student considering a similar class at another university. https://github.com/gtrichards/PHYS_440_540
 
 ### Physical Zero-Knowledge Proof
 I wrote a paper with my friend, Eammon, which outlines a protocol in which someone can prove they have a solution to a game of Flow Free, without revealing or giving away any information about the solution. This protocol can be carried out with a physical deck of cards. Such protocols are known as physical zero-knowledge proofs. Here is a link: https://arxiv.org/abs/2202.04113
