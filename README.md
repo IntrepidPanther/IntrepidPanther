@@ -2,6 +2,7 @@
 
 Here is a bit about me. I am currently a Math PhD student at Drexel University in my final year. I love learning and problem solving, and I also enjoy collaborating as well as teaching the things I have learned. My current research involves proving things about waves travelling through lattices made of "random" material. If you want to know more about my research, please start with my research statement located in this repositrory, or for an even briefer account, see the following link: 
 
+https://dsweb.siam.org/The-Magazine/Article/student-feature-joshua-a-mcginnis
 
 I find the use of simulations especially helpful in learning, and I am hoping to use this page in the future to upload any numerical work related to my research (sorry, have yet to do this, writing a thesis). I hoping to continue my a career in research once I finish my PhD. 
 
